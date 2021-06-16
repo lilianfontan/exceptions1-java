@@ -1,0 +1,27 @@
+
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String product1 = "Computer";
+		String product2 = "Office Desk";
+		
+		double price1 = 2100.00;
+		double price2 = 650.50;
+		
+		int age = 30;
+		int code = 5290;
+		char gender = 'F';
+		
+		System.out.println("Products: ");
+		System.out.println(product1 + ", which price is $" + price1);
+		System.out.println(product2 + ", which price is $" + price2);
+		System.out.printf("%/n");
+		System.out.println("Record: " + age + " years old, code " + code + " and gender: " + gender);
+				
+
+	}
+
+}

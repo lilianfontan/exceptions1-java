@@ -1,0 +1,18 @@
+
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String product1 = "Computer";
+		
+		double price1 = 2100.00;
+		
+		System.out.println("Products: ");
+		System.out.printf("%s, which price is $ %.2f %/n", product1, price1); 
+				
+
+	}
+
+}

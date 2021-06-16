@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Exercicio4_5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner (System.in);
+		
+		int peca1 = sc.nextInt();
+		int numeroPeca1 = sc.nextInt();
+		
+		System.out.println(peca1 + " " + numeroPeca1);
+		sc.close();
+		
+
+	}
+
+}

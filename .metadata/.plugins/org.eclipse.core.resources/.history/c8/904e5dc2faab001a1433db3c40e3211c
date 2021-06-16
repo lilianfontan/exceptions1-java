@@ -1,0 +1,8 @@
+package estudojava;
+
+public class estudo11062020 {
+	public static void main(String[] args) {
+			System.out.println("teste");
+		}
+	}
+
